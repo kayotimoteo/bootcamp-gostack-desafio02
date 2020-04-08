@@ -1,6 +1,6 @@
 ## Desafio 02 - Conceitos NodeJS - Bootcamp GoStack
 
-### ✎Projeto
+### ✏️Projeto
 
 Desafio proposto pelo Bootcamp GoStack da Rocketseat, para fixar o aprendizado, sobre alguns conceitos do NodeJS.
 
